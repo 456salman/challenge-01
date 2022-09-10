@@ -1,5 +1,4 @@
-# git-init-sample
-# challenge 01
+# Code Refactoring Using HTML, CSS and Git
 
 ## Description
 
@@ -17,5 +16,6 @@ in this photo it shows how you can merged all the codes together because it was 
 
 ![](./assets/images/screenshot.png)
 
-
+ ## resource
+  my github: https://github.com/456salman/challenge-01
 
