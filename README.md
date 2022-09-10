@@ -12,10 +12,10 @@ so i gathered them in style and merged them together
 
 ## Usage
 
-in this photo it show how you can see how i merged all the codes together because it was just a repation. so i will be usung this skill to clean up and to make the codes easer to read 
+in this photo it shows how you can merged all the codes together because it was just a repation. so i will be usung this skill to clean up and to make the codes easer to read 
 
-![alt text](assets/Screenshot.png)
 
+![](./assets/images/screenshot.png)
 
 
 
